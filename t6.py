@@ -21,5 +21,5 @@ def test2(dataArr, labelArr):
 
 if __name__=='__main__':
     dataArr, labelArr = test1()
-
     test2(dataArr, labelArr)
+
